@@ -5,6 +5,8 @@
 
 # TECH STACK
 - C++
+- Lua
 - OpenGL
 - Imgui
 - Premake
+- 
