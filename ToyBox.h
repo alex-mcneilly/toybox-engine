@@ -1,5 +1,11 @@
 #indef
 
 
+class ToyBox {
+
+
+
+
+
 
 #endif
