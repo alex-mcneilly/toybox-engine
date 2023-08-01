@@ -3,9 +3,9 @@
 
 class ToyBox 
 {
+  private:
 
-
-
+  
   ToyBox()
 
 
