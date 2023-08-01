@@ -1,7 +1,12 @@
 #indef
 
 
-class ToyBox {
+class ToyBox 
+{
+
+
+
+  ToyBox()
 
 
 
