@@ -5,8 +5,11 @@ class ToyBox
 {
   private:
 
-  
-  ToyBox()
+  public:
+  ToyBox() 
+  {
+
+  }
 
 
 
