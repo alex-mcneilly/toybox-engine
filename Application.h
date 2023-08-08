@@ -2,6 +2,10 @@
 
 class ToyBox::Application
 {
+private:
+
+public:
+
 
 
 };
