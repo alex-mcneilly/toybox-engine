@@ -1,9 +1,9 @@
 #indef
 
 
-class ToyBox 
-{
+class ToyBox {
   private:
+
 
   public:
   ToyBox() 
